@@ -59,6 +59,7 @@ public class digitalPracticeUnitFrom {
         Thread.sleep(5000);
 
         //After successful submission, assert the expected message.
+
         WebElement resultElement = driver.findElement(By.tagName("h1"));
         String ActualResult = resultElement.getText();
         String ExpectedResult = "Thank you for your submission!";
