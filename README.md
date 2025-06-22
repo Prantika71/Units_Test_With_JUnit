@@ -106,8 +106,7 @@ Before running this project, make sure the following are properly set up on your
 ![task03](![image](https://github.com/user-attachments/assets/8d6c4a99-7319-442d-a402-8671bb7de512)
 )
 #### Text File
-![image](![image](https://github.com/user-attachments/assets/7e7f2106-5962-46c8-afad-2a6cd0b0c421)
-)
+![image](https://github.com/user-attachments/assets/f10ce7e4-3332-474c-a9f0-4772b1cc9cf3)
 
 
 
