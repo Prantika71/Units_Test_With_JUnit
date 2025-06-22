@@ -89,22 +89,22 @@ Before running this project, make sure the following are properly set up on your
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-![task01](![image](https://github.com/user-attachments/assets/27ed6f7c-b01b-4351-b509-f258e4bbadaf)
-)
+![image](https://github.com/user-attachments/assets/b2bf1702-8e46-49f3-b622-ec95a9982e42)
+
 ### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted the expected success message: "User successfully registered.!".
 #### Report 
-![task02](![image](https://github.com/user-attachments/assets/03a1eca5-5053-455b-9f41-0a776d54611c)
-)
+![image](https://github.com/user-attachments/assets/a6f59fd1-f330-422d-96df-3b8eab527c42)
+
 
 ### 3. Web Scraping for DSEBD Stock Prices
 - Scraped table data from the provided webpage using Selenium.
 - Printed all table cell values in the console.
 - Stored the scraped data into a text file for reference. 
 #### Report
-![task03](![image](https://github.com/user-attachments/assets/8d6c4a99-7319-442d-a402-8671bb7de512)
-)
+![image](https://github.com/user-attachments/assets/b1b8121b-38d4-4acb-863f-623863fd2ead)
+
 #### Text File
 ![image](https://github.com/user-attachments/assets/f10ce7e4-3332-474c-a9f0-4772b1cc9cf3)
 
