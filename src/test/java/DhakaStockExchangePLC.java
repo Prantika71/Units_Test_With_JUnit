@@ -47,7 +47,7 @@ public class DhakaStockExchangePLC {
             for (WebElement cell : cells) {
 
                 String text = cell.getText();
-               // System.out.print(text);      // Print in console
+                System.out.print(" " + text + " ");      // Print in console
                 writer.write(" " + text + " "); // write in file
             }
 
