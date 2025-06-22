@@ -89,14 +89,14 @@ Before running this project, make sure the following are properly set up on your
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-![task01](![image](https://github.com/user-attachments/assets/025b724c-89b5-47f5-9086-1168238e9110)
+![task01]([image](https://github.com/user-attachments/assets/025b724c-89b5-47f5-9086-1168238e9110)
 )
 
 ### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted the expected success message: "User successfully registered.!".
 #### Report 
-![task02](![image](https://github.com/user-attachments/assets/a160e990-1388-4ad8-960b-f8c588841d93)
+![task02]([image](https://github.com/user-attachments/assets/a160e990-1388-4ad8-960b-f8c588841d93)
 )
 
 ### 3. Web Scraping for DSEBD Stock Prices
