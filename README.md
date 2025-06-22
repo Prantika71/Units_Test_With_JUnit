@@ -50,7 +50,20 @@ Automates the form submission process:
 
 ---
 
+## 🔧 Prerequisites
 
+Before running this project, make sure the following are properly set up on your system:
+
+- **Java Development Kit (JDK) 8 or higher**  
+  Required to compile and run Java test classes.
+
+- **Supported Web Browser (e.g., Chrome, Firefox)**  
+  Used for executing browser-based tests (if applicable).
+
+- **WebDriver Binary (ChromeDriver or GeckoDriver)**  
+  Must match the version of your installed browser.  
+  - [Download ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
+  - [Download GeckoDriver](https://github.com/mozilla/geckodriver/releases)
 
 
 
