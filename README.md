@@ -89,9 +89,7 @@ Before running this project, make sure the following are properly set up on your
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-![task01]([image](https://github.com/user-attachments/assets/025b724c-89b5-47f5-9086-1168238e9110)
-)
-
+file:///D:/JAVA/Assignment_on_JUnit/build/reports/tests/test/classes/DigitalPracticeUnitFrom.html
 ### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted the expected success message: "User successfully registered.!".
