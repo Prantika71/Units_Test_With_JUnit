@@ -11,7 +11,7 @@ import java.util.List;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 
-public class guestRegistrationForm {
+public class GuestRegistrationForm {
 
 
     WebDriver driver;

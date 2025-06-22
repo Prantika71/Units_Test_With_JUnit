@@ -9,7 +9,7 @@ import java.time.Duration;
 import java.util.List;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-public class digitalPracticeUnitFrom {
+public class DigitalPracticeUnitFrom {
 
     WebDriver driver;
 
