@@ -103,9 +103,11 @@ Before running this project, make sure the following are properly set up on your
 - Printed all table cell values in the console.
 - Stored the scraped data into a text file for reference. 
 #### Report
-![task03](??)
+![task03](![image](https://github.com/user-attachments/assets/8d6c4a99-7319-442d-a402-8671bb7de512)
+)
 #### Text File
-![image](??)
+![image](![image](https://github.com/user-attachments/assets/7e7f2106-5962-46c8-afad-2a6cd0b0c421)
+)
 
 
 
