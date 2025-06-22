@@ -6,6 +6,19 @@
 **2.** [**Guest Registration Automation for WP Everest**](https://demo.wpeverest.com/user-registration/guest-registration-form/)<br>
 **3.** [**Web Scraping Data for DSEBD Stock Prices**](https://dsebd.org/latest_share_price_scroll_by_value.php)
 
+## About
+
+This repository presents a focused exploration of **unit testing in Java** using the **JUnit** framework, with an emphasis on foundational testing techniques and automation best practices.
+
+Key aspects covered include:
+
+- Writing and organizing effective unit tests to validate core Java methods.
+- Applying JUnit assertions to verify correctness and handle edge cases.
+- Automating browser interactions and web element validations using Selenium WebDriver.
+- Demonstrating practical examples such as web form validation, table data scraping, and output verification.
+- Managing dependencies and build processes with **Gradle** for seamless integration and execution.
+
+The project structure and test design adhere to industry standards, providing a solid base for software quality assurance engineers and developers aiming to enhance code reliability through automated testing.
 
 ## **Content**
 - [Project Description](#project-description)
