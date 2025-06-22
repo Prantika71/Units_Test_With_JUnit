@@ -4,7 +4,7 @@
 
  **1.** [**Webform Automation for Digital Unite**](https://www.digitalunite.com/practice-webform-learners)<br>
 **2.** [**Guest Registration Automation for WP Everest**](https://demo.wpeverest.com/user-registration/guest-registration-form/)<br>
-**3.** [**Web Scraping for DSEBD Stock Prices**](https://dsebd.org/latest_share_price_scroll_by_value.php)
+**3.** [**Web Scraping Data for DSEBD Stock Prices**](https://dsebd.org/latest_share_price_scroll_by_value.php)
 
 
 ## **Content**
@@ -58,16 +58,55 @@ Before running this project, make sure the following are properly set up on your
   Required to compile and run Java test classes.
 
 - **Supported Web Browser (e.g., Chrome, Firefox)**  
-  Used for executing browser-based tests (if applicable).
+  Used for executing browser-based tests.
 
 - **WebDriver Binary (ChromeDriver or GeckoDriver)**  
   Must match the version of your installed browser.  
   - [Download ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
   - [Download GeckoDriver](https://github.com/mozilla/geckodriver/releases)
 
+## 🚀 How To Run This?
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Prantika71/Units_Test_With_JUnit.git
+2. Open the Project in any IDE
+3. Add Dependency in the build.gradle file and reload gradle from the top right
+   - Dependencies Add:
+     - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.33.0)
+4. Verification
+   - For the web forms:
+      - Check the assertion logs for success or failure messages.
+   - For the table scraping:
+      - Verify the console output and the generated text file (e.g., store.txt).
+5. Output Files
+   - Logs: Test results and execution details are logged in the console.
+   - Text File: Scraped table data is stored in store.txt.
 
 
+## Project Reports
+### 1. Webform Automation for Digital Unite
+- Automated field inputs.
+- Implemented file upload functionality.
+- Asserted the expected success message: "Thank you for your submission!".
+#### Report
+![task01](![image](https://github.com/user-attachments/assets/025b724c-89b5-47f5-9086-1168238e9110)
+)
 
+### 2. Guest Registration Automation for WP Everest
+- Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
+- Asserted the expected success message: "User successfully registered.!".
+#### Report 
+![task02](![image](https://github.com/user-attachments/assets/a160e990-1388-4ad8-960b-f8c588841d93)
+)
+
+### 3. Web Scraping for DSEBD Stock Prices
+- Scraped table data from the provided webpage using Selenium.
+- Printed all table cell values in the console.
+- Stored the scraped data into a text file for reference. 
+#### Report
+![task03](??)
+#### Text File
+![image](??)
 
 
 
