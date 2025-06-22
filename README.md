@@ -89,12 +89,13 @@ Before running this project, make sure the following are properly set up on your
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-file:///D:/JAVA/Assignment_on_JUnit/build/reports/tests/test/classes/DigitalPracticeUnitFrom.html
+![task01](![image](https://github.com/user-attachments/assets/27ed6f7c-b01b-4351-b509-f258e4bbadaf)
+)
 ### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted the expected success message: "User successfully registered.!".
 #### Report 
-![task02]([image](https://github.com/user-attachments/assets/a160e990-1388-4ad8-960b-f8c588841d93)
+![task02](![image](https://github.com/user-attachments/assets/03a1eca5-5053-455b-9f41-0a776d54611c)
 )
 
 ### 3. Web Scraping for DSEBD Stock Prices
