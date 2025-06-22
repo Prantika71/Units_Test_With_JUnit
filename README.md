@@ -26,8 +26,8 @@ Automates the form submission process:
 - Uploads a file (≤ 2 MB).
 - Validates the success message upon submission.
 
-  ### 2. Guest Registration Automation for WP Everest
-  Automates the guest registration process:
+ ### 2. Guest Registration Automation for WP Everest
+ Automates the guest registration process:
  - Completes all mandatory fields.
  - Submit the form.
  - Verifies successful registration.
